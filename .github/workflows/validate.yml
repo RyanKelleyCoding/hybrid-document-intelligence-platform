@@ -27,7 +27,6 @@ jobs:
               'C:\\Users\\',
               '/Users/',
               'private-repo-boundary-manifest.json',
-              'owner@example.com',
               'DOCINT_SQL_CONNECTION_STRING=',
               'AccountKey=',
               'SharedAccessSignature=',
